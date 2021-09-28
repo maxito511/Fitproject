@@ -1,0 +1,558 @@
+C:\Users\Usuario\AppData\Local\Temporary Projects\Fitproject\bin\Debug\Fitproject.exe.config
+C:\Users\Usuario\AppData\Local\Temporary Projects\Fitproject\bin\Debug\Fitproject.exe
+C:\Users\Usuario\AppData\Local\Temporary Projects\Fitproject\bin\Debug\Fitproject.pdb
+C:\Users\Usuario\AppData\Local\Temporary Projects\Fitproject\bin\Debug\Fitproject.xml
+C:\Users\Usuario\AppData\Local\Temporary Projects\Fitproject\obj\Debug\Fitproject.vbprojResolveAssemblyReference.cache
+C:\Users\Usuario\AppData\Local\Temporary Projects\Fitproject\obj\Debug\Fitproject.Resources.resources
+C:\Users\Usuario\AppData\Local\Temporary Projects\Fitproject\obj\Debug\Fitproject.w_main.resources
+C:\Users\Usuario\AppData\Local\Temporary Projects\Fitproject\obj\Debug\Fitproject.vbproj.GenerateResource.Cache
+C:\Users\Usuario\AppData\Local\Temporary Projects\Fitproject\obj\Debug\Fitproject.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\AppData\Local\Temporary Projects\Fitproject\obj\Debug\Fitproject.exe
+C:\Users\Usuario\AppData\Local\Temporary Projects\Fitproject\obj\Debug\Fitproject.xml
+C:\Users\Usuario\AppData\Local\Temporary Projects\Fitproject\obj\Debug\Fitproject.pdb
+C:\Users\Usuario\source\repos\Fitproject\Fitproject\bin\Debug\Fitproject.exe.config
+C:\Users\Usuario\source\repos\Fitproject\Fitproject\bin\Debug\Fitproject.exe
+C:\Users\Usuario\source\repos\Fitproject\Fitproject\bin\Debug\Fitproject.pdb
+C:\Users\Usuario\source\repos\Fitproject\Fitproject\bin\Debug\Fitproject.xml
+C:\Users\Usuario\source\repos\Fitproject\Fitproject\obj\Debug\Fitproject.vbprojResolveAssemblyReference.cache
+C:\Users\Usuario\source\repos\Fitproject\Fitproject\obj\Debug\Fitproject.Resources.resources
+C:\Users\Usuario\source\repos\Fitproject\Fitproject\obj\Debug\Fitproject.w_main.resources
+C:\Users\Usuario\source\repos\Fitproject\Fitproject\obj\Debug\Fitproject.vbproj.GenerateResource.Cache
+C:\Users\Usuario\source\repos\Fitproject\Fitproject\obj\Debug\Fitproject.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Fitproject\Fitproject\obj\Debug\Fitproject.exe
+C:\Users\Usuario\source\repos\Fitproject\Fitproject\obj\Debug\Fitproject.xml
+C:\Users\Usuario\source\repos\Fitproject\Fitproject\obj\Debug\Fitproject.pdb
+C:\Users\Usuario\source\repos\Fitproject\Fitproject\obj\Debug\Fitproject.w_agregar_socio.resources
+C:\Users\Usuario\source\repos\Fitproject\Fitproject\obj\Debug\Fitproject.w_consultar_socio.resources
+C:\Users\Usuario\source\repos\Fitproject\Fitproject\obj\Debug\Fitproject.w_login.resources
+C:\Users\Usuario\source\repos\FitProject\Fitproject\bin\Debug\EntityFramework.dll
+C:\Users\Usuario\source\repos\FitProject\Fitproject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Usuario\source\repos\FitProject\Fitproject\bin\Debug\EntityFramework.xml
+C:\Users\Usuario\source\repos\FitProject\Fitproject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Usuario\source\repos\Fitproject\Fitproject\obj\Debug\Fitproject.w_agregar_actividad.resources
+C:\Users\Usuario\source\repos\Fitproject\Fitproject\obj\Debug\Fitproject.w_agregar_entrenador.resources
+C:\Users\Usuario\source\repos\Fitproject\Fitproject\obj\Debug\Fitproject.w_consultar_actividad.resources
+C:\Users\Usuario\source\repos\Fitproject\Fitproject\obj\Debug\Fitproject.w_consultar_entrenador.resources
+C:\Users\Usuario\source\repos\Fitproject\Fitproject\obj\Debug\Fitproject.w_agregar_usuario.resources
+C:\Users\Usuario\source\repos\Fitproject\Fitproject\bin\Debug\WebCAM.dll
+C:\Users\Usuario\source\repos\Fitproject\Fitproject\obj\Debug\Fitproject.w_parametros.resources
+C:\Users\Usuario\source\repos\Fitproject\Fitproject\bin\Debug\IrisSkin2.dll
+C:\Users\Usuario\source\repos\Fitproject\Fitproject\obj\Debug\Fitproject.w_consultar_pago.resources
+C:\Users\Usuario\source\repos\Fitproject\Fitproject\obj\Debug\Fitproject.w_pago.resources
+C:\Users\Usuario\source\repos\Fitproject\Fitproject\obj\Debug\Fitproject.w_tipo_pagos.resources
+C:\Users\Usuario\source\repos\Fitproject - Romper\Fitproject\bin\Debug\Fitproject.exe.config
+C:\Users\Usuario\source\repos\Fitproject - Romper\Fitproject\bin\Debug\Fitproject.exe
+C:\Users\Usuario\source\repos\Fitproject - Romper\Fitproject\bin\Debug\Fitproject.pdb
+C:\Users\Usuario\source\repos\Fitproject - Romper\Fitproject\bin\Debug\Fitproject.xml
+C:\Users\Usuario\source\repos\Fitproject - Romper\Fitproject\bin\Debug\EntityFramework.dll
+C:\Users\Usuario\source\repos\Fitproject - Romper\Fitproject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Usuario\source\repos\Fitproject - Romper\Fitproject\bin\Debug\IrisSkin2.dll
+C:\Users\Usuario\source\repos\Fitproject - Romper\Fitproject\bin\Debug\WebCAM.dll
+C:\Users\Usuario\source\repos\Fitproject - Romper\Fitproject\bin\Debug\EntityFramework.xml
+C:\Users\Usuario\source\repos\Fitproject - Romper\Fitproject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Usuario\source\repos\Fitproject - Romper\Fitproject\obj\Debug\Fitproject.vbprojResolveAssemblyReference.cache
+C:\Users\Usuario\source\repos\Fitproject - Romper\Fitproject\obj\Debug\Fitproject.Resources.resources
+C:\Users\Usuario\source\repos\Fitproject - Romper\Fitproject\obj\Debug\Fitproject.w_agregar_actividad.resources
+C:\Users\Usuario\source\repos\Fitproject - Romper\Fitproject\obj\Debug\Fitproject.w_agregar_entrenador.resources
+C:\Users\Usuario\source\repos\Fitproject - Romper\Fitproject\obj\Debug\Fitproject.w_agregar_socio.resources
+C:\Users\Usuario\source\repos\Fitproject - Romper\Fitproject\obj\Debug\Fitproject.w_agregar_usuario.resources
+C:\Users\Usuario\source\repos\Fitproject - Romper\Fitproject\obj\Debug\Fitproject.w_consultar_actividad.resources
+C:\Users\Usuario\source\repos\Fitproject - Romper\Fitproject\obj\Debug\Fitproject.w_consultar_entrenador.resources
+C:\Users\Usuario\source\repos\Fitproject - Romper\Fitproject\obj\Debug\Fitproject.w_consultar_pago.resources
+C:\Users\Usuario\source\repos\Fitproject - Romper\Fitproject\obj\Debug\Fitproject.w_consultar_socio.resources
+C:\Users\Usuario\source\repos\Fitproject - Romper\Fitproject\obj\Debug\Fitproject.w_login.resources
+C:\Users\Usuario\source\repos\Fitproject - Romper\Fitproject\obj\Debug\Fitproject.w_main.resources
+C:\Users\Usuario\source\repos\Fitproject - Romper\Fitproject\obj\Debug\Fitproject.w_pago.resources
+C:\Users\Usuario\source\repos\Fitproject - Romper\Fitproject\obj\Debug\Fitproject.w_parametros.resources
+C:\Users\Usuario\source\repos\Fitproject - Romper\Fitproject\obj\Debug\Fitproject.w_tipo_pagos.resources
+C:\Users\Usuario\source\repos\Fitproject - Romper\Fitproject\obj\Debug\Fitproject.vbproj.GenerateResource.Cache
+C:\Users\Usuario\source\repos\Fitproject - Romper\Fitproject\obj\Debug\Fitproject.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Fitproject - Romper\Fitproject\obj\Debug\Fitproject.exe
+C:\Users\Usuario\source\repos\Fitproject - Romper\Fitproject\obj\Debug\Fitproject.xml
+C:\Users\Usuario\source\repos\Fitproject - Romper\Fitproject\obj\Debug\Fitproject.pdb
+C:\Users\Tingo\Desktop\Fitproject - Romper\Fitproject\bin\Debug\Fitproject.exe.config
+C:\Users\Tingo\Desktop\Fitproject - Romper\Fitproject\bin\Debug\Fitproject.exe
+C:\Users\Tingo\Desktop\Fitproject - Romper\Fitproject\bin\Debug\Fitproject.pdb
+C:\Users\Tingo\Desktop\Fitproject - Romper\Fitproject\bin\Debug\Fitproject.xml
+C:\Users\Tingo\Desktop\Fitproject - Romper\Fitproject\bin\Debug\EntityFramework.dll
+C:\Users\Tingo\Desktop\Fitproject - Romper\Fitproject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tingo\Desktop\Fitproject - Romper\Fitproject\bin\Debug\IrisSkin2.dll
+C:\Users\Tingo\Desktop\Fitproject - Romper\Fitproject\bin\Debug\EntityFramework.xml
+C:\Users\Tingo\Desktop\Fitproject - Romper\Fitproject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tingo\Desktop\Fitproject - Romper\Fitproject\obj\Debug\Fitproject.vbprojResolveAssemblyReference.cache
+C:\Users\Tingo\Desktop\Fitproject - Romper\Fitproject\obj\Debug\Fitproject.Resources.resources
+C:\Users\Tingo\Desktop\Fitproject - Romper\Fitproject\obj\Debug\Fitproject.w_agregar_actividad.resources
+C:\Users\Tingo\Desktop\Fitproject - Romper\Fitproject\obj\Debug\Fitproject.w_agregar_entrenador.resources
+C:\Users\Tingo\Desktop\Fitproject - Romper\Fitproject\obj\Debug\Fitproject.w_agregar_socio.resources
+C:\Users\Tingo\Desktop\Fitproject - Romper\Fitproject\obj\Debug\Fitproject.w_agregar_usuario.resources
+C:\Users\Tingo\Desktop\Fitproject - Romper\Fitproject\obj\Debug\Fitproject.w_consultar_actividad.resources
+C:\Users\Tingo\Desktop\Fitproject - Romper\Fitproject\obj\Debug\Fitproject.w_consultar_entrenador.resources
+C:\Users\Tingo\Desktop\Fitproject - Romper\Fitproject\obj\Debug\Fitproject.w_consultar_pago.resources
+C:\Users\Tingo\Desktop\Fitproject - Romper\Fitproject\obj\Debug\Fitproject.w_consultar_socio.resources
+C:\Users\Tingo\Desktop\Fitproject - Romper\Fitproject\obj\Debug\Fitproject.w_login.resources
+C:\Users\Tingo\Desktop\Fitproject - Romper\Fitproject\obj\Debug\Fitproject.w_main.resources
+C:\Users\Tingo\Desktop\Fitproject - Romper\Fitproject\obj\Debug\Fitproject.w_pago.resources
+C:\Users\Tingo\Desktop\Fitproject - Romper\Fitproject\obj\Debug\Fitproject.w_parametros.resources
+C:\Users\Tingo\Desktop\Fitproject - Romper\Fitproject\obj\Debug\Fitproject.w_tipo_pagos.resources
+C:\Users\Tingo\Desktop\Fitproject - Romper\Fitproject\obj\Debug\Fitproject.vbproj.GenerateResource.Cache
+C:\Users\Tingo\Desktop\Fitproject - Romper\Fitproject\obj\Debug\Fitproject.vbproj.CoreCompileInputs.cache
+C:\Users\Tingo\Desktop\Fitproject - Romper\Fitproject\obj\Debug\Fitproject.exe
+C:\Users\Tingo\Desktop\Fitproject - Romper\Fitproject\obj\Debug\Fitproject.xml
+C:\Users\Tingo\Desktop\Fitproject - Romper\Fitproject\obj\Debug\Fitproject.pdb
+J:\Taller II\Codigo\Fitproject\Fitproject\bin\Debug\Fitproject.exe.config
+J:\Taller II\Codigo\Fitproject\Fitproject\bin\Debug\Fitproject.exe
+J:\Taller II\Codigo\Fitproject\Fitproject\bin\Debug\Fitproject.pdb
+J:\Taller II\Codigo\Fitproject\Fitproject\bin\Debug\Fitproject.xml
+J:\Taller II\Codigo\Fitproject\Fitproject\bin\Debug\EntityFramework.dll
+J:\Taller II\Codigo\Fitproject\Fitproject\bin\Debug\EntityFramework.SqlServer.dll
+J:\Taller II\Codigo\Fitproject\Fitproject\bin\Debug\IrisSkin2.dll
+J:\Taller II\Codigo\Fitproject\Fitproject\bin\Debug\EntityFramework.xml
+J:\Taller II\Codigo\Fitproject\Fitproject\bin\Debug\EntityFramework.SqlServer.xml
+J:\Taller II\Codigo\Fitproject\Fitproject\obj\Debug\Fitproject.vbprojResolveAssemblyReference.cache
+J:\Taller II\Codigo\Fitproject\Fitproject\obj\Debug\Fitproject.Resources.resources
+J:\Taller II\Codigo\Fitproject\Fitproject\obj\Debug\Fitproject.w_agregar_actividad.resources
+J:\Taller II\Codigo\Fitproject\Fitproject\obj\Debug\Fitproject.w_agregar_entrenador.resources
+J:\Taller II\Codigo\Fitproject\Fitproject\obj\Debug\Fitproject.w_agregar_socio.resources
+J:\Taller II\Codigo\Fitproject\Fitproject\obj\Debug\Fitproject.w_agregar_usuario.resources
+J:\Taller II\Codigo\Fitproject\Fitproject\obj\Debug\Fitproject.w_consultar_actividad.resources
+J:\Taller II\Codigo\Fitproject\Fitproject\obj\Debug\Fitproject.w_consultar_entrenador.resources
+J:\Taller II\Codigo\Fitproject\Fitproject\obj\Debug\Fitproject.w_consultar_pago.resources
+J:\Taller II\Codigo\Fitproject\Fitproject\obj\Debug\Fitproject.w_consultar_socio.resources
+J:\Taller II\Codigo\Fitproject\Fitproject\obj\Debug\Fitproject.w_login.resources
+J:\Taller II\Codigo\Fitproject\Fitproject\obj\Debug\Fitproject.w_main.resources
+J:\Taller II\Codigo\Fitproject\Fitproject\obj\Debug\Fitproject.w_pago.resources
+J:\Taller II\Codigo\Fitproject\Fitproject\obj\Debug\Fitproject.w_parametros.resources
+J:\Taller II\Codigo\Fitproject\Fitproject\obj\Debug\Fitproject.w_tipo_pagos.resources
+J:\Taller II\Codigo\Fitproject\Fitproject\obj\Debug\Fitproject.vbproj.GenerateResource.Cache
+J:\Taller II\Codigo\Fitproject\Fitproject\obj\Debug\Fitproject.vbproj.CoreCompileInputs.cache
+J:\Taller II\Codigo\Fitproject\Fitproject\obj\Debug\Fitproject.exe
+J:\Taller II\Codigo\Fitproject\Fitproject\obj\Debug\Fitproject.xml
+J:\Taller II\Codigo\Fitproject\Fitproject\obj\Debug\Fitproject.pdb
+C:\Users\Tingo\Desktop\Fitproject (ROMPER)\Fitproject\obj\Debug\Fitproject.vbprojResolveAssemblyReference.cache
+C:\Users\Tingo\Desktop\Fitproject (ROMPER)\Fitproject\obj\Debug\Fitproject.Resources.resources
+C:\Users\Tingo\Desktop\Fitproject (ROMPER)\Fitproject\obj\Debug\Fitproject.w_agregar_actividad.resources
+C:\Users\Tingo\Desktop\Fitproject (ROMPER)\Fitproject\obj\Debug\Fitproject.w_agregar_entrenador.resources
+C:\Users\Tingo\Desktop\Fitproject (ROMPER)\Fitproject\obj\Debug\Fitproject.w_agregar_socio.resources
+C:\Users\Tingo\Desktop\Fitproject (ROMPER)\Fitproject\obj\Debug\Fitproject.w_agregar_usuario.resources
+C:\Users\Tingo\Desktop\Fitproject (ROMPER)\Fitproject\obj\Debug\Fitproject.w_consultar_actividad.resources
+C:\Users\Tingo\Desktop\Fitproject (ROMPER)\Fitproject\obj\Debug\Fitproject.w_consultar_entrenador.resources
+C:\Users\Tingo\Desktop\Fitproject (ROMPER)\Fitproject\obj\Debug\Fitproject.w_consultar_pago.resources
+C:\Users\Tingo\Desktop\Fitproject (ROMPER)\Fitproject\obj\Debug\Fitproject.w_consultar_socio.resources
+C:\Users\Tingo\Desktop\Fitproject (ROMPER)\Fitproject\obj\Debug\Fitproject.w_login.resources
+C:\Users\Tingo\Desktop\Fitproject (ROMPER)\Fitproject\obj\Debug\Fitproject.w_main.resources
+C:\Users\Tingo\Desktop\Fitproject (ROMPER)\Fitproject\obj\Debug\Fitproject.w_pago.resources
+C:\Users\Tingo\Desktop\Fitproject (ROMPER)\Fitproject\obj\Debug\Fitproject.w_parametros.resources
+C:\Users\Tingo\Desktop\Fitproject (ROMPER)\Fitproject\obj\Debug\Fitproject.w_tipo_pagos.resources
+C:\Users\Tingo\Desktop\Fitproject (ROMPER)\Fitproject\obj\Debug\Fitproject.vbproj.GenerateResource.Cache
+C:\Users\Tingo\Desktop\Fitproject (ROMPER)\Fitproject\obj\Debug\Fitproject.vbproj.CoreCompileInputs.cache
+C:\Users\Tingo\Desktop\Fitproject (ROMPER)\Fitproject\obj\Debug\Fitproject.exe
+C:\Users\Tingo\Desktop\Fitproject (ROMPER)\Fitproject\obj\Debug\Fitproject.xml
+C:\Users\Tingo\Desktop\Fitproject (ROMPER)\Fitproject\obj\Debug\Fitproject.pdb
+C:\Users\Tingo\Desktop\Fitproject (ROMPER)\Fitproject\bin\Debug\Fitproject.exe.config
+C:\Users\Tingo\Desktop\Fitproject (ROMPER)\Fitproject\bin\Debug\Fitproject.exe
+C:\Users\Tingo\Desktop\Fitproject (ROMPER)\Fitproject\bin\Debug\Fitproject.pdb
+C:\Users\Tingo\Desktop\Fitproject (ROMPER)\Fitproject\bin\Debug\Fitproject.xml
+C:\Users\Tingo\Desktop\Fitproject (ROMPER)\Fitproject\bin\Debug\EntityFramework.dll
+C:\Users\Tingo\Desktop\Fitproject (ROMPER)\Fitproject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tingo\Desktop\Fitproject (ROMPER)\Fitproject\bin\Debug\IrisSkin2.dll
+C:\Users\Tingo\Desktop\Fitproject (ROMPER)\Fitproject\bin\Debug\EntityFramework.xml
+C:\Users\Tingo\Desktop\Fitproject (ROMPER)\Fitproject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tingo\Desktop\Fitproject (ROMPER)\Fitproject\obj\Debug\Fitproject.w_modificar_socio.resources
+C:\Users\Usuario\Downloads\Fitproject (ROMPER) Ultima\Fitproject\obj\Debug\Fitproject.vbprojResolveAssemblyReference.cache
+C:\Users\Usuario\Downloads\Fitproject (ROMPER) Ultima\Fitproject\obj\Debug\Fitproject.exe
+C:\Users\Usuario\Downloads\Fitproject (ROMPER) Ultima\Fitproject\obj\Debug\Fitproject.xml
+C:\Users\Usuario\Downloads\Fitproject (ROMPER) Ultima\Fitproject\obj\Debug\Fitproject.pdb
+C:\Users\Usuario\Downloads\Fitproject (ROMPER) Ultima\Fitproject\bin\Debug\Fitproject.exe.config
+C:\Users\Usuario\Downloads\Fitproject (ROMPER) Ultima\Fitproject\bin\Debug\Fitproject.exe
+C:\Users\Usuario\Downloads\Fitproject (ROMPER) Ultima\Fitproject\bin\Debug\Fitproject.pdb
+C:\Users\Usuario\Downloads\Fitproject (ROMPER) Ultima\Fitproject\bin\Debug\Fitproject.xml
+C:\Users\Usuario\Downloads\Fitproject (ROMPER) Ultima\Fitproject\bin\Debug\EntityFramework.dll
+C:\Users\Usuario\Downloads\Fitproject (ROMPER) Ultima\Fitproject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Usuario\Downloads\Fitproject (ROMPER) Ultima\Fitproject\bin\Debug\IrisSkin2.dll
+C:\Users\Usuario\Downloads\Fitproject (ROMPER) Ultima\Fitproject\bin\Debug\EntityFramework.xml
+C:\Users\Usuario\Downloads\Fitproject (ROMPER) Ultima\Fitproject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Usuario\Downloads\Fitproject (ROMPER) Ultima\Fitproject\obj\Debug\Fitproject.Resources.resources
+C:\Users\Usuario\Downloads\Fitproject (ROMPER) Ultima\Fitproject\obj\Debug\Fitproject.w_agregar_actividad.resources
+C:\Users\Usuario\Downloads\Fitproject (ROMPER) Ultima\Fitproject\obj\Debug\Fitproject.w_agregar_entrenador.resources
+C:\Users\Usuario\Downloads\Fitproject (ROMPER) Ultima\Fitproject\obj\Debug\Fitproject.w_agregar_socio.resources
+C:\Users\Usuario\Downloads\Fitproject (ROMPER) Ultima\Fitproject\obj\Debug\Fitproject.w_agregar_usuario.resources
+C:\Users\Usuario\Downloads\Fitproject (ROMPER) Ultima\Fitproject\obj\Debug\Fitproject.w_consultar_actividad.resources
+C:\Users\Usuario\Downloads\Fitproject (ROMPER) Ultima\Fitproject\obj\Debug\Fitproject.w_consultar_entrenador.resources
+C:\Users\Usuario\Downloads\Fitproject (ROMPER) Ultima\Fitproject\obj\Debug\Fitproject.w_consultar_pago.resources
+C:\Users\Usuario\Downloads\Fitproject (ROMPER) Ultima\Fitproject\obj\Debug\Fitproject.w_consultar_socio.resources
+C:\Users\Usuario\Downloads\Fitproject (ROMPER) Ultima\Fitproject\obj\Debug\Fitproject.w_login.resources
+C:\Users\Usuario\Downloads\Fitproject (ROMPER) Ultima\Fitproject\obj\Debug\Fitproject.w_main.resources
+C:\Users\Usuario\Downloads\Fitproject (ROMPER) Ultima\Fitproject\obj\Debug\Fitproject.w_modificar_socio.resources
+C:\Users\Usuario\Downloads\Fitproject (ROMPER) Ultima\Fitproject\obj\Debug\Fitproject.w_pago.resources
+C:\Users\Usuario\Downloads\Fitproject (ROMPER) Ultima\Fitproject\obj\Debug\Fitproject.w_parametros.resources
+C:\Users\Usuario\Downloads\Fitproject (ROMPER) Ultima\Fitproject\obj\Debug\Fitproject.w_tipo_pagos.resources
+C:\Users\Usuario\Downloads\Fitproject (ROMPER) Ultima\Fitproject\obj\Debug\Fitproject.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Downloads\Fitproject (ROMPER) Ultima\Fitproject\obj\Debug\Fitproject.vbproj.CoreCompileInputs.cache
+C:\Users\Tingo\Desktop\Fitproject (ROMPER) Ultima\Fitproject\bin\Debug\Fitproject.exe.config
+C:\Users\Tingo\Desktop\Fitproject (ROMPER) Ultima\Fitproject\bin\Debug\Fitproject.exe
+C:\Users\Tingo\Desktop\Fitproject (ROMPER) Ultima\Fitproject\bin\Debug\Fitproject.pdb
+C:\Users\Tingo\Desktop\Fitproject (ROMPER) Ultima\Fitproject\bin\Debug\Fitproject.xml
+C:\Users\Tingo\Desktop\Fitproject (ROMPER) Ultima\Fitproject\bin\Debug\EntityFramework.dll
+C:\Users\Tingo\Desktop\Fitproject (ROMPER) Ultima\Fitproject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tingo\Desktop\Fitproject (ROMPER) Ultima\Fitproject\bin\Debug\IrisSkin2.dll
+C:\Users\Tingo\Desktop\Fitproject (ROMPER) Ultima\Fitproject\bin\Debug\EntityFramework.xml
+C:\Users\Tingo\Desktop\Fitproject (ROMPER) Ultima\Fitproject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tingo\Desktop\Fitproject (ROMPER) Ultima\Fitproject\obj\Debug\Fitproject.vbprojResolveAssemblyReference.cache
+C:\Users\Tingo\Desktop\Fitproject (ROMPER) Ultima\Fitproject\obj\Debug\Fitproject.Resources.resources
+C:\Users\Tingo\Desktop\Fitproject (ROMPER) Ultima\Fitproject\obj\Debug\Fitproject.w_agregar_actividad.resources
+C:\Users\Tingo\Desktop\Fitproject (ROMPER) Ultima\Fitproject\obj\Debug\Fitproject.w_agregar_entrenador.resources
+C:\Users\Tingo\Desktop\Fitproject (ROMPER) Ultima\Fitproject\obj\Debug\Fitproject.w_agregar_socio.resources
+C:\Users\Tingo\Desktop\Fitproject (ROMPER) Ultima\Fitproject\obj\Debug\Fitproject.w_agregar_usuario.resources
+C:\Users\Tingo\Desktop\Fitproject (ROMPER) Ultima\Fitproject\obj\Debug\Fitproject.w_consultar_actividad.resources
+C:\Users\Tingo\Desktop\Fitproject (ROMPER) Ultima\Fitproject\obj\Debug\Fitproject.w_consultar_entrenador.resources
+C:\Users\Tingo\Desktop\Fitproject (ROMPER) Ultima\Fitproject\obj\Debug\Fitproject.w_consultar_pago.resources
+C:\Users\Tingo\Desktop\Fitproject (ROMPER) Ultima\Fitproject\obj\Debug\Fitproject.w_consultar_socio.resources
+C:\Users\Tingo\Desktop\Fitproject (ROMPER) Ultima\Fitproject\obj\Debug\Fitproject.w_login.resources
+C:\Users\Tingo\Desktop\Fitproject (ROMPER) Ultima\Fitproject\obj\Debug\Fitproject.w_main.resources
+C:\Users\Tingo\Desktop\Fitproject (ROMPER) Ultima\Fitproject\obj\Debug\Fitproject.w_modificar_socio.resources
+C:\Users\Tingo\Desktop\Fitproject (ROMPER) Ultima\Fitproject\obj\Debug\Fitproject.w_pago.resources
+C:\Users\Tingo\Desktop\Fitproject (ROMPER) Ultima\Fitproject\obj\Debug\Fitproject.w_parametros.resources
+C:\Users\Tingo\Desktop\Fitproject (ROMPER) Ultima\Fitproject\obj\Debug\Fitproject.w_tipo_pagos.resources
+C:\Users\Tingo\Desktop\Fitproject (ROMPER) Ultima\Fitproject\obj\Debug\Fitproject.vbproj.GenerateResource.Cache
+C:\Users\Tingo\Desktop\Fitproject (ROMPER) Ultima\Fitproject\obj\Debug\Fitproject.vbproj.CoreCompileInputs.cache
+C:\Users\Tingo\Desktop\Fitproject (ROMPER) Ultima\Fitproject\obj\Debug\Fitproject.exe
+C:\Users\Tingo\Desktop\Fitproject (ROMPER) Ultima\Fitproject\obj\Debug\Fitproject.xml
+C:\Users\Tingo\Desktop\Fitproject (ROMPER) Ultima\Fitproject\obj\Debug\Fitproject.pdb
+C:\Users\Usuario\source\repos\Fitproject (ROMPER) Ultima\Fitproject\bin\Debug\Fitproject.exe.config
+C:\Users\Usuario\source\repos\Fitproject (ROMPER) Ultima\Fitproject\bin\Debug\Fitproject.exe
+C:\Users\Usuario\source\repos\Fitproject (ROMPER) Ultima\Fitproject\bin\Debug\Fitproject.pdb
+C:\Users\Usuario\source\repos\Fitproject (ROMPER) Ultima\Fitproject\bin\Debug\Fitproject.xml
+C:\Users\Usuario\source\repos\Fitproject (ROMPER) Ultima\Fitproject\bin\Debug\EntityFramework.dll
+C:\Users\Usuario\source\repos\Fitproject (ROMPER) Ultima\Fitproject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Usuario\source\repos\Fitproject (ROMPER) Ultima\Fitproject\bin\Debug\IrisSkin2.dll
+C:\Users\Usuario\source\repos\Fitproject (ROMPER) Ultima\Fitproject\bin\Debug\WebCAM.dll
+C:\Users\Usuario\source\repos\Fitproject (ROMPER) Ultima\Fitproject\bin\Debug\EntityFramework.xml
+C:\Users\Usuario\source\repos\Fitproject (ROMPER) Ultima\Fitproject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Usuario\source\repos\Fitproject (ROMPER) Ultima\Fitproject\obj\Debug\Fitproject.vbprojResolveAssemblyReference.cache
+C:\Users\Usuario\source\repos\Fitproject (ROMPER) Ultima\Fitproject\obj\Debug\Fitproject.Resources.resources
+C:\Users\Usuario\source\repos\Fitproject (ROMPER) Ultima\Fitproject\obj\Debug\Fitproject.w_agregar_actividad.resources
+C:\Users\Usuario\source\repos\Fitproject (ROMPER) Ultima\Fitproject\obj\Debug\Fitproject.w_agregar_entrenador.resources
+C:\Users\Usuario\source\repos\Fitproject (ROMPER) Ultima\Fitproject\obj\Debug\Fitproject.w_agregar_socio.resources
+C:\Users\Usuario\source\repos\Fitproject (ROMPER) Ultima\Fitproject\obj\Debug\Fitproject.w_agregar_usuario.resources
+C:\Users\Usuario\source\repos\Fitproject (ROMPER) Ultima\Fitproject\obj\Debug\Fitproject.w_consultar_actividad.resources
+C:\Users\Usuario\source\repos\Fitproject (ROMPER) Ultima\Fitproject\obj\Debug\Fitproject.w_consultar_entrenador.resources
+C:\Users\Usuario\source\repos\Fitproject (ROMPER) Ultima\Fitproject\obj\Debug\Fitproject.w_consultar_pago.resources
+C:\Users\Usuario\source\repos\Fitproject (ROMPER) Ultima\Fitproject\obj\Debug\Fitproject.w_consultar_socio.resources
+C:\Users\Usuario\source\repos\Fitproject (ROMPER) Ultima\Fitproject\obj\Debug\Fitproject.w_login.resources
+C:\Users\Usuario\source\repos\Fitproject (ROMPER) Ultima\Fitproject\obj\Debug\Fitproject.w_main.resources
+C:\Users\Usuario\source\repos\Fitproject (ROMPER) Ultima\Fitproject\obj\Debug\Fitproject.w_modificar_socio.resources
+C:\Users\Usuario\source\repos\Fitproject (ROMPER) Ultima\Fitproject\obj\Debug\Fitproject.w_pago.resources
+C:\Users\Usuario\source\repos\Fitproject (ROMPER) Ultima\Fitproject\obj\Debug\Fitproject.w_parametros.resources
+C:\Users\Usuario\source\repos\Fitproject (ROMPER) Ultima\Fitproject\obj\Debug\Fitproject.w_tipo_pagos.resources
+C:\Users\Usuario\source\repos\Fitproject (ROMPER) Ultima\Fitproject\obj\Debug\Fitproject.vbproj.GenerateResource.Cache
+C:\Users\Usuario\source\repos\Fitproject (ROMPER) Ultima\Fitproject\obj\Debug\Fitproject.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Fitproject (ROMPER) Ultima\Fitproject\obj\Debug\Fitproject.exe
+C:\Users\Usuario\source\repos\Fitproject (ROMPER) Ultima\Fitproject\obj\Debug\Fitproject.xml
+C:\Users\Usuario\source\repos\Fitproject (ROMPER) Ultima\Fitproject\obj\Debug\Fitproject.pdb
+C:\Users\Usuario\source\repos\Fitproject (ROMPER) Ultima\Fitproject\obj\Debug\Fitproject.vbproj.ResolveComReference.cache
+J:\Taller II\Codigo\Fitproject\Fitproject\obj\Debug\Fitproject.vbproj.ResolveComReference.cache
+J:\Taller II\Codigo\Fitproject\Fitproject\obj\Debug\Fitproject.w_modificar_socio.resources
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\bin\Debug\Fitproject.exe.config
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\bin\Debug\Fitproject.exe
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\bin\Debug\Fitproject.pdb
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\bin\Debug\Fitproject.xml
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\bin\Debug\EntityFramework.dll
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\bin\Debug\IrisSkin2.dll
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\bin\Debug\EntityFramework.xml
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\obj\Debug\Fitproject.vbprojResolveAssemblyReference.cache
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\obj\Debug\Fitproject.vbproj.ResolveComReference.cache
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\obj\Debug\Fitproject.Resources.resources
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\obj\Debug\Fitproject.w_agregar_actividad.resources
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\obj\Debug\Fitproject.w_agregar_entrenador.resources
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\obj\Debug\Fitproject.w_agregar_socio.resources
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\obj\Debug\Fitproject.w_agregar_usuario.resources
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\obj\Debug\Fitproject.w_consultar_actividad.resources
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\obj\Debug\Fitproject.w_consultar_entrenador.resources
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\obj\Debug\Fitproject.w_consultar_pago.resources
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\obj\Debug\Fitproject.w_consultar_socio.resources
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\obj\Debug\Fitproject.w_login.resources
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\obj\Debug\Fitproject.w_main.resources
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\obj\Debug\Fitproject.w_modificar_socio.resources
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\obj\Debug\Fitproject.w_pago.resources
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\obj\Debug\Fitproject.w_parametros.resources
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\obj\Debug\Fitproject.w_tipo_pagos.resources
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\obj\Debug\Fitproject.vbproj.GenerateResource.Cache
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\obj\Debug\Fitproject.vbproj.CoreCompileInputs.cache
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\obj\Debug\Fitproject.exe
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\obj\Debug\Fitproject.xml
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\obj\Debug\Fitproject.pdb
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\bin\Debug\Fitproject.exe.config
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\bin\Debug\Fitproject.exe
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\bin\Debug\Fitproject.pdb
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\bin\Debug\Fitproject.xml
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\bin\Debug\EntityFramework.dll
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\bin\Debug\IrisSkin2.dll
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\bin\Debug\WebCAM.dll
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\bin\Debug\EntityFramework.xml
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\obj\Debug\Fitproject.vbprojResolveAssemblyReference.cache
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\obj\Debug\Fitproject.vbproj.ResolveComReference.cache
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\obj\Debug\Fitproject.Resources.resources
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\obj\Debug\Fitproject.w_agregar_actividad.resources
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\obj\Debug\Fitproject.w_agregar_entrenador.resources
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\obj\Debug\Fitproject.w_agregar_socio.resources
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\obj\Debug\Fitproject.w_agregar_usuario.resources
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\obj\Debug\Fitproject.w_consultar_actividad.resources
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\obj\Debug\Fitproject.w_consultar_entrenador.resources
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\obj\Debug\Fitproject.w_consultar_pago.resources
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\obj\Debug\Fitproject.w_consultar_socio.resources
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\obj\Debug\Fitproject.w_login.resources
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\obj\Debug\Fitproject.w_main.resources
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\obj\Debug\Fitproject.w_modificar_socio.resources
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\obj\Debug\Fitproject.w_pago.resources
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\obj\Debug\Fitproject.w_parametros.resources
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\obj\Debug\Fitproject.w_tipo_pagos.resources
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\obj\Debug\Fitproject.vbproj.GenerateResource.Cache
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\obj\Debug\Fitproject.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\obj\Debug\Fitproject.exe
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\obj\Debug\Fitproject.xml
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\obj\Debug\Fitproject.pdb
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\bin\Debug\EnvDTE.dll
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\bin\Debug\stdole.dll
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\obj\Debug\Fitproject.w_backup.resources
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\bin\Debug\Fitproject.exe.config
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\bin\Debug\Fitproject.exe
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\bin\Debug\Fitproject.pdb
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\bin\Debug\Fitproject.xml
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\bin\Debug\EntityFramework.dll
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\bin\Debug\IrisSkin2.dll
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\bin\Debug\EnvDTE.dll
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\bin\Debug\stdole.dll
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\bin\Debug\EntityFramework.xml
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\obj\Debug\Fitproject.vbprojResolveAssemblyReference.cache
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\obj\Debug\Fitproject.vbproj.ResolveComReference.cache
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\obj\Debug\Fitproject.Resources.resources
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\obj\Debug\Fitproject.w_agregar_actividad.resources
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\obj\Debug\Fitproject.w_agregar_entrenador.resources
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\obj\Debug\Fitproject.w_agregar_socio.resources
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\obj\Debug\Fitproject.w_agregar_usuario.resources
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\obj\Debug\Fitproject.w_backup.resources
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\obj\Debug\Fitproject.w_consultar_actividad.resources
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\obj\Debug\Fitproject.w_consultar_entrenador.resources
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\obj\Debug\Fitproject.w_consultar_pago.resources
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\obj\Debug\Fitproject.w_consultar_socio.resources
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\obj\Debug\Fitproject.w_login.resources
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\obj\Debug\Fitproject.w_main.resources
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\obj\Debug\Fitproject.w_modificar_socio.resources
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\obj\Debug\Fitproject.w_pago.resources
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\obj\Debug\Fitproject.w_parametros.resources
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\obj\Debug\Fitproject.w_r_factura.resources
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\obj\Debug\Fitproject.w_tipo_pagos.resources
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\obj\Debug\Fitproject.vbproj.GenerateResource.Cache
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\obj\Debug\Fitproject.vbproj.CoreCompileInputs.cache
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\obj\Debug\Fitproject.exe
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\obj\Debug\Fitproject.xml
+C:\Users\Tingo\Desktop\Nueva carpeta\Fitproject ROMPER\Fitproject\obj\Debug\Fitproject.pdb
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\bin\Debug\EnvDTE.dll
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\bin\Debug\stdole.dll
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\obj\Debug\Fitproject.w_backup.resources
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\obj\Debug\Fitproject.w_r_factura.resources
+C:\Users\Tingo\Desktop\Fitproject ROMPER\Fitproject\obj\Debug\Fitproject.w_consultar_usuario.resources
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\obj\Debug\Fitproject.w_consultar_usuario.resources
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\obj\Debug\Fitproject.w_cierre_caja.resources
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\obj\Debug\Fitproject.w_acercade.resources
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\obj\Debug\Fitproject.w_acceso.resources
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\obj\Debug\Fitproject.w_reset.resources
+C:\Users\Usuario\source\repos\Fitproject ROMPER\Fitproject\obj\Debug\Fitproject.w_comp.resources

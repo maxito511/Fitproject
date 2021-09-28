@@ -1,0 +1,277 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="taller2Model.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="actividades">
+    <Key>
+      <PropertyRef Name="id_actividad" />
+    </Key>
+    <Property Name="id_actividad" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="de_actividad" Type="varchar" MaxLength="30" />
+    <Property Name="duracion" Type="int" />
+    <Property Name="pr_actividad" Type="decimal" Precision="10" Scale="2" />
+    <Property Name="sn_activo" Type="char" MaxLength="1" />
+  </EntityType>
+  <EntityType Name="empresa">
+    <Key>
+      <PropertyRef Name="id_empresa" />
+    </Key>
+    <Property Name="id_empresa" Type="int" Nullable="false" />
+    <Property Name="nombre" Type="varchar" MaxLength="30" />
+    <Property Name="direccion" Type="varchar" MaxLength="30" />
+    <Property Name="telefono" Type="bigint" />
+    <Property Name="us_login" Type="varchar" MaxLength="30" />
+    <Property Name="us_pass" Type="varchar" MaxLength="30" />
+    <Property Name="id_cuit" Type="varchar" MaxLength="30" />
+    <Property Name="localidad" Type="varchar" MaxLength="30" />
+    <Property Name="provincia" Type="varchar" MaxLength="30" />
+    <Property Name="web" Type="varchar" MaxLength="30" />
+    <Property Name="email" Type="varchar" MaxLength="30" />
+  </EntityType>
+  <EntityType Name="entrenadores">
+    <Key>
+      <PropertyRef Name="id_entrenador" />
+    </Key>
+    <Property Name="id_entrenador" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="dni" Type="int" />
+    <Property Name="nombre" Type="varchar" MaxLength="30" />
+    <Property Name="apellido" Type="varchar" MaxLength="30" />
+    <Property Name="telefono" Type="bigint" />
+    <Property Name="direccion" Type="varchar" MaxLength="30" />
+    <Property Name="email" Type="varchar" MaxLength="50" />
+    <Property Name="fe_nacimiento" Type="date" />
+    <Property Name="sexo" Type="char" MaxLength="1" />
+    <Property Name="sn_activo" Type="char" MaxLength="1" />
+  </EntityType>
+  <EntityType Name="entrenadorxactividad">
+    <Key>
+      <PropertyRef Name="id_entrenador" />
+      <PropertyRef Name="id_actividad" />
+    </Key>
+    <Property Name="id_entrenador" Type="int" Nullable="false" />
+    <Property Name="id_actividad" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="factura">
+    <Key>
+      <PropertyRef Name="id_factura" />
+    </Key>
+    <Property Name="id_factura" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="id_socio" Type="int" />
+    <Property Name="fe_factura" Type="date" />
+    <Property Name="fe_vencimiento" Type="date" />
+    <Property Name="id_tipo" Type="int" />
+    <Property Name="monto" Type="numeric" Precision="6" Scale="2" />
+  </EntityType>
+  <EntityType Name="factura_detalle">
+    <Key>
+      <PropertyRef Name="id_factura" />
+      <PropertyRef Name="id_facturadetalle" />
+    </Key>
+    <Property Name="id_factura" Type="int" Nullable="false" />
+    <Property Name="id_facturadetalle" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="observacion" Type="varchar" MaxLength="50" />
+    <Property Name="descuento" Type="decimal" Precision="7" Scale="2" />
+    <Property Name="id_actividades" Type="int" />
+  </EntityType>
+  <EntityType Name="socios">
+    <Key>
+      <PropertyRef Name="id_socio" />
+    </Key>
+    <Property Name="id_socio" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="dni" Type="int" />
+    <Property Name="nombre" Type="varchar" MaxLength="30" />
+    <Property Name="apellido" Type="varchar" MaxLength="30" />
+    <Property Name="telefono" Type="bigint" />
+    <Property Name="direccion" Type="varchar" MaxLength="30" />
+    <Property Name="email" Type="varchar" MaxLength="50" />
+    <Property Name="fe_nacimiento" Type="date" />
+    <Property Name="sexo" Type="char" MaxLength="1" />
+    <Property Name="imagen" Type="image" />
+    <Property Name="sn_activo" Type="char" MaxLength="1" />
+  </EntityType>
+  <EntityType Name="socioxactividad">
+    <Key>
+      <PropertyRef Name="id_socio" />
+      <PropertyRef Name="id_actividad" />
+    </Key>
+    <Property Name="id_socio" Type="int" Nullable="false" />
+    <Property Name="id_actividad" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="tipo_pago">
+    <Key>
+      <PropertyRef Name="id_tipo" />
+    </Key>
+    <Property Name="id_tipo" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="descripcion" Type="varchar" MaxLength="30" />
+  </EntityType>
+  <EntityType Name="usuario">
+    <Key>
+      <PropertyRef Name="id_usuario" />
+    </Key>
+    <Property Name="id_usuario" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="us_login" Type="varchar" MaxLength="30" Nullable="false" />
+    <Property Name="us_pass" Type="varchar" MaxLength="30" Nullable="false" />
+    <Property Name="us_tipo" Type="char" MaxLength="1" Nullable="false" />
+    <Property Name="us_descrip" Type="varchar" MaxLength="20" />
+    <Property Name="dni" Type="bigint" />
+    <Property Name="apellido" Type="varchar" MaxLength="30" />
+    <Property Name="nombre" Type="varchar" MaxLength="30" />
+    <Property Name="telefono" Type="varchar" MaxLength="30" />
+    <Property Name="direccion" Type="varchar" MaxLength="30" />
+    <Property Name="email" Type="varchar" MaxLength="30" />
+    <Property Name="sn_activo" Type="char" MaxLength="1" />
+  </EntityType>
+  <!--Errores durante la generación:
+advertencia 6002: La tabla o vista 'taller2.dbo.pagos' no tiene definida ninguna clave principal. Se ha inferido la clave y la definición se creado como una vista o tabla de solo lectura.-->
+  <EntityType Name="pagos">
+    <Key>
+      <PropertyRef Name="id_factura" />
+    </Key>
+    <Property Name="id_factura" Type="int" Nullable="false" />
+    <Property Name="dni" Type="int" />
+    <Property Name="apellido" Type="varchar" MaxLength="30" />
+    <Property Name="nombre" Type="varchar" MaxLength="30" />
+    <Property Name="descripcion" Type="varchar" MaxLength="30" />
+    <Property Name="importe" Type="decimal" Precision="38" Scale="2" />
+    <Property Name="fe_factura" Type="date" />
+    <Property Name="fe_vencimiento" Type="date" />
+  </EntityType>
+  <Association Name="FK__entrenado__id_ac__22AA2996">
+    <End Role="actividades" Type="Self.actividades" Multiplicity="1" />
+    <End Role="entrenadorxactividad" Type="Self.entrenadorxactividad" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="actividades">
+        <PropertyRef Name="id_actividad" />
+      </Principal>
+      <Dependent Role="entrenadorxactividad">
+        <PropertyRef Name="id_actividad" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__entrenado__id_en__239E4DCF">
+    <End Role="entrenadores" Type="Self.entrenadores" Multiplicity="1" />
+    <End Role="entrenadorxactividad" Type="Self.entrenadorxactividad" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="entrenadores">
+        <PropertyRef Name="id_entrenador" />
+      </Principal>
+      <Dependent Role="entrenadorxactividad">
+        <PropertyRef Name="id_entrenador" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__factura__id_soci__24927208">
+    <End Role="socios" Type="Self.socios" Multiplicity="0..1" />
+    <End Role="factura" Type="Self.factura" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="socios">
+        <PropertyRef Name="id_socio" />
+      </Principal>
+      <Dependent Role="factura">
+        <PropertyRef Name="id_socio" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__factura__id_tipo__25869641">
+    <End Role="tipo_pago" Type="Self.tipo_pago" Multiplicity="0..1" />
+    <End Role="factura" Type="Self.factura" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tipo_pago">
+        <PropertyRef Name="id_tipo" />
+      </Principal>
+      <Dependent Role="factura">
+        <PropertyRef Name="id_tipo" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__factura_d__id_fa__267ABA7A">
+    <End Role="factura" Type="Self.factura" Multiplicity="1" />
+    <End Role="factura_detalle" Type="Self.factura_detalle" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="factura">
+        <PropertyRef Name="id_factura" />
+      </Principal>
+      <Dependent Role="factura_detalle">
+        <PropertyRef Name="id_factura" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__socioxact__id_ac__276EDEB3">
+    <End Role="actividades" Type="Self.actividades" Multiplicity="1" />
+    <End Role="socioxactividad" Type="Self.socioxactividad" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="actividades">
+        <PropertyRef Name="id_actividad" />
+      </Principal>
+      <Dependent Role="socioxactividad">
+        <PropertyRef Name="id_actividad" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__socioxact__id_so__286302EC">
+    <End Role="socios" Type="Self.socios" Multiplicity="1" />
+    <End Role="socioxactividad" Type="Self.socioxactividad" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="socios">
+        <PropertyRef Name="id_socio" />
+      </Principal>
+      <Dependent Role="socioxactividad">
+        <PropertyRef Name="id_socio" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Function Name="sp_comprobante" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="fecha" Type="date" Mode="In" />
+    <Parameter Name="id" Type="int" Mode="In" />
+  </Function>
+  <EntityContainer Name="taller2ModelStoreContainer">
+    <EntitySet Name="actividades" EntityType="Self.actividades" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="empresa" EntityType="Self.empresa" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="entrenadores" EntityType="Self.entrenadores" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="entrenadorxactividad" EntityType="Self.entrenadorxactividad" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="factura" EntityType="Self.factura" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="factura_detalle" EntityType="Self.factura_detalle" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="socios" EntityType="Self.socios" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="socioxactividad" EntityType="Self.socioxactividad" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tipo_pago" EntityType="Self.tipo_pago" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="usuario" EntityType="Self.usuario" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="pagos" EntityType="Self.pagos" store:Type="Views" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [pagos].[id_factura] AS [id_factura], 
+    [pagos].[dni] AS [dni], 
+    [pagos].[apellido] AS [apellido], 
+    [pagos].[nombre] AS [nombre], 
+    [pagos].[descripcion] AS [descripcion], 
+    [pagos].[importe] AS [importe], 
+    [pagos].[fe_factura] AS [fe_factura], 
+    [pagos].[fe_vencimiento] AS [fe_vencimiento]
+    FROM [dbo].[pagos] AS [pagos]</DefiningQuery>
+    </EntitySet>
+    <AssociationSet Name="FK__entrenado__id_ac__22AA2996" Association="Self.FK__entrenado__id_ac__22AA2996">
+      <End Role="actividades" EntitySet="actividades" />
+      <End Role="entrenadorxactividad" EntitySet="entrenadorxactividad" />
+    </AssociationSet>
+    <AssociationSet Name="FK__entrenado__id_en__239E4DCF" Association="Self.FK__entrenado__id_en__239E4DCF">
+      <End Role="entrenadores" EntitySet="entrenadores" />
+      <End Role="entrenadorxactividad" EntitySet="entrenadorxactividad" />
+    </AssociationSet>
+    <AssociationSet Name="FK__factura__id_soci__24927208" Association="Self.FK__factura__id_soci__24927208">
+      <End Role="socios" EntitySet="socios" />
+      <End Role="factura" EntitySet="factura" />
+    </AssociationSet>
+    <AssociationSet Name="FK__factura__id_tipo__25869641" Association="Self.FK__factura__id_tipo__25869641">
+      <End Role="tipo_pago" EntitySet="tipo_pago" />
+      <End Role="factura" EntitySet="factura" />
+    </AssociationSet>
+    <AssociationSet Name="FK__factura_d__id_fa__267ABA7A" Association="Self.FK__factura_d__id_fa__267ABA7A">
+      <End Role="factura" EntitySet="factura" />
+      <End Role="factura_detalle" EntitySet="factura_detalle" />
+    </AssociationSet>
+    <AssociationSet Name="FK__socioxact__id_ac__276EDEB3" Association="Self.FK__socioxact__id_ac__276EDEB3">
+      <End Role="actividades" EntitySet="actividades" />
+      <End Role="socioxactividad" EntitySet="socioxactividad" />
+    </AssociationSet>
+    <AssociationSet Name="FK__socioxact__id_so__286302EC" Association="Self.FK__socioxact__id_so__286302EC">
+      <End Role="socios" EntitySet="socios" />
+      <End Role="socioxactividad" EntitySet="socioxactividad" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

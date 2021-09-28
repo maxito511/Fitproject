@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="taller2ModelStoreContainer" CdmEntityContainer="taller2Entities">
+    <EntitySetMapping Name="actividades">
+      <EntityTypeMapping TypeName="taller2Model.actividades">
+        <MappingFragment StoreEntitySet="actividades">
+          <ScalarProperty Name="sn_activo" ColumnName="sn_activo" />
+          <ScalarProperty Name="pr_actividad" ColumnName="pr_actividad" />
+          <ScalarProperty Name="duracion" ColumnName="duracion" />
+          <ScalarProperty Name="de_actividad" ColumnName="de_actividad" />
+          <ScalarProperty Name="id_actividad" ColumnName="id_actividad" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="entrenadores">
+      <EntityTypeMapping TypeName="taller2Model.entrenadores">
+        <MappingFragment StoreEntitySet="entrenadores">
+          <ScalarProperty Name="sn_activo" ColumnName="sn_activo" />
+          <ScalarProperty Name="sexo" ColumnName="sexo" />
+          <ScalarProperty Name="fe_nacimiento" ColumnName="fe_nacimiento" />
+          <ScalarProperty Name="email" ColumnName="email" />
+          <ScalarProperty Name="direccion" ColumnName="direccion" />
+          <ScalarProperty Name="telefono" ColumnName="telefono" />
+          <ScalarProperty Name="apellido" ColumnName="apellido" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+          <ScalarProperty Name="dni" ColumnName="dni" />
+          <ScalarProperty Name="id_entrenador" ColumnName="id_entrenador" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="factura">
+      <EntityTypeMapping TypeName="taller2Model.factura">
+        <MappingFragment StoreEntitySet="factura">
+          <ScalarProperty Name="monto" ColumnName="monto" />
+          <ScalarProperty Name="id_tipo" ColumnName="id_tipo" />
+          <ScalarProperty Name="fe_vencimiento" ColumnName="fe_vencimiento" />
+          <ScalarProperty Name="fe_factura" ColumnName="fe_factura" />
+          <ScalarProperty Name="id_socio" ColumnName="id_socio" />
+          <ScalarProperty Name="id_factura" ColumnName="id_factura" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="factura_detalle">
+      <EntityTypeMapping TypeName="taller2Model.factura_detalle">
+        <MappingFragment StoreEntitySet="factura_detalle">
+          <ScalarProperty Name="id_actividades" ColumnName="id_actividades" />
+          <ScalarProperty Name="descuento" ColumnName="descuento" />
+          <ScalarProperty Name="observacion" ColumnName="observacion" />
+          <ScalarProperty Name="id_facturadetalle" ColumnName="id_facturadetalle" />
+          <ScalarProperty Name="id_factura" ColumnName="id_factura" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="socios">
+      <EntityTypeMapping TypeName="taller2Model.socios">
+        <MappingFragment StoreEntitySet="socios">
+          <ScalarProperty Name="sn_activo" ColumnName="sn_activo" />
+          <ScalarProperty Name="imagen" ColumnName="imagen" />
+          <ScalarProperty Name="sexo" ColumnName="sexo" />
+          <ScalarProperty Name="fe_nacimiento" ColumnName="fe_nacimiento" />
+          <ScalarProperty Name="email" ColumnName="email" />
+          <ScalarProperty Name="direccion" ColumnName="direccion" />
+          <ScalarProperty Name="telefono" ColumnName="telefono" />
+          <ScalarProperty Name="apellido" ColumnName="apellido" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+          <ScalarProperty Name="dni" ColumnName="dni" />
+          <ScalarProperty Name="id_socio" ColumnName="id_socio" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tipo_pago">
+      <EntityTypeMapping TypeName="taller2Model.tipo_pago">
+        <MappingFragment StoreEntitySet="tipo_pago">
+          <ScalarProperty Name="descripcion" ColumnName="descripcion" />
+          <ScalarProperty Name="id_tipo" ColumnName="id_tipo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="usuario">
+      <EntityTypeMapping TypeName="taller2Model.usuario">
+        <MappingFragment StoreEntitySet="usuario">
+          <ScalarProperty Name="sn_activo" ColumnName="sn_activo" />
+          <ScalarProperty Name="email" ColumnName="email" />
+          <ScalarProperty Name="direccion" ColumnName="direccion" />
+          <ScalarProperty Name="telefono" ColumnName="telefono" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+          <ScalarProperty Name="apellido" ColumnName="apellido" />
+          <ScalarProperty Name="dni" ColumnName="dni" />
+          <ScalarProperty Name="us_descrip" ColumnName="us_descrip" />
+          <ScalarProperty Name="us_tipo" ColumnName="us_tipo" />
+          <ScalarProperty Name="us_pass" ColumnName="us_pass" />
+          <ScalarProperty Name="us_login" ColumnName="us_login" />
+          <ScalarProperty Name="id_usuario" ColumnName="id_usuario" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <AssociationSetMapping Name="socioxactividad" TypeName="taller2Model.socioxactividad" StoreEntitySet="socioxactividad">
+      <EndProperty Name="socios">
+        <ScalarProperty Name="id_socio" ColumnName="id_socio" />
+      </EndProperty>
+      <EndProperty Name="actividades">
+        <ScalarProperty Name="id_actividad" ColumnName="id_actividad" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <EntitySetMapping Name="empresa">
+      <EntityTypeMapping TypeName="taller2Model.empresa">
+        <MappingFragment StoreEntitySet="empresa">
+          <ScalarProperty Name="email" ColumnName="email" />
+          <ScalarProperty Name="web" ColumnName="web" />
+          <ScalarProperty Name="provincia" ColumnName="provincia" />
+          <ScalarProperty Name="localidad" ColumnName="localidad" />
+          <ScalarProperty Name="id_cuit" ColumnName="id_cuit" />
+          <ScalarProperty Name="us_pass" ColumnName="us_pass" />
+          <ScalarProperty Name="us_login" ColumnName="us_login" />
+          <ScalarProperty Name="telefono" ColumnName="telefono" />
+          <ScalarProperty Name="direccion" ColumnName="direccion" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+          <ScalarProperty Name="id_empresa" ColumnName="id_empresa" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="pagos">
+      <EntityTypeMapping TypeName="taller2Model.pagos">
+        <MappingFragment StoreEntitySet="pagos">
+          <ScalarProperty Name="dni" ColumnName="dni" />
+          <ScalarProperty Name="descripcion" ColumnName="descripcion" />
+          <ScalarProperty Name="fe_vencimiento" ColumnName="fe_vencimiento" />
+          <ScalarProperty Name="fe_factura" ColumnName="fe_factura" />
+          <ScalarProperty Name="importe" ColumnName="importe" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+          <ScalarProperty Name="apellido" ColumnName="apellido" />
+          <ScalarProperty Name="id_factura" ColumnName="id_factura" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <AssociationSetMapping Name="entrenadorxactividad1" TypeName="taller2Model.entrenadorxactividad1" StoreEntitySet="entrenadorxactividad">
+      <EndProperty Name="entrenadores">
+        <ScalarProperty Name="id_entrenador" ColumnName="id_entrenador" />
+      </EndProperty>
+      <EndProperty Name="actividades">
+        <ScalarProperty Name="id_actividad" ColumnName="id_actividad" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <FunctionImportMapping FunctionImportName="sp_comprobante" FunctionName="taller2Model.Store.sp_comprobante">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="taller2Model.sp_comprobante_Result">
+          <ScalarProperty Name="NroFactura" ColumnName="NroFactura" />
+          <ScalarProperty Name="NroSocio" ColumnName="NroSocio" />
+          <ScalarProperty Name="Socio" ColumnName="Socio" />
+          <ScalarProperty Name="fe_factura" ColumnName="fe_factura" />
+          <ScalarProperty Name="de_actividad" ColumnName="de_actividad" />
+          <ScalarProperty Name="pr_actividad" ColumnName="pr_actividad" />
+          <ScalarProperty Name="id_empresa" ColumnName="id_empresa" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+          <ScalarProperty Name="direccion" ColumnName="direccion" />
+          <ScalarProperty Name="telefono" ColumnName="telefono" />
+          <ScalarProperty Name="us_login" ColumnName="us_login" />
+          <ScalarProperty Name="us_pass" ColumnName="us_pass" />
+          <ScalarProperty Name="id_cuit" ColumnName="id_cuit" />
+          <ScalarProperty Name="localidad" ColumnName="localidad" />
+          <ScalarProperty Name="provincia" ColumnName="provincia" />
+          <ScalarProperty Name="web" ColumnName="web" />
+          <ScalarProperty Name="email" ColumnName="email" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+  </EntityContainerMapping>
+</Mapping>

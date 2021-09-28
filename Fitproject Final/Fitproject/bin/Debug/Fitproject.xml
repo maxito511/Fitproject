@@ -1,0 +1,321 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Fitproject
+</name>
+</assembly>
+<members>
+<member name="T:Fitproject.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Fitproject.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Fitproject.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:Fitproject.cierre_caja_Dataset">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Fitproject.cierre_caja_Dataset.pagosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Fitproject.cierre_caja_Dataset.pagosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Fitproject.cierre_caja_Dataset.pagosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Fitproject.cierre_caja_DatasetTableAdapters.pagosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Fitproject.cierre_caja_DatasetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Fitproject.cierre_caja_DatasetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Fitproject.cierre_caja_Dataset,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Fitproject.cierre_caja_DatasetTableAdapters.TableAdapterManager.UpdateInsertedRows(Fitproject.cierre_caja_Dataset,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Fitproject.cierre_caja_DatasetTableAdapters.TableAdapterManager.UpdateDeletedRows(Fitproject.cierre_caja_Dataset,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Fitproject.cierre_caja_DatasetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Fitproject.cierre_caja_DatasetTableAdapters.TableAdapterManager.UpdateAll(Fitproject.cierre_caja_Dataset)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Fitproject.cierre_caja_DatasetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Fitproject.cierre_caja_DatasetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Fitproject.Factura_dataset">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Fitproject.Factura_dataset.actividadesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Fitproject.Factura_dataset.empresaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Fitproject.Factura_dataset.facturaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Fitproject.Factura_dataset.factura_detalleDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Fitproject.Factura_dataset.sociosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Fitproject.Factura_dataset.tipo_pagoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Fitproject.Factura_dataset.actividadesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Fitproject.Factura_dataset.empresaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Fitproject.Factura_dataset.facturaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Fitproject.Factura_dataset.factura_detalleRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Fitproject.Factura_dataset.sociosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Fitproject.Factura_dataset.tipo_pagoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Fitproject.Factura_dataset.actividadesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Fitproject.Factura_dataset.empresaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Fitproject.Factura_dataset.facturaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Fitproject.Factura_dataset.factura_detalleRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Fitproject.Factura_dataset.sociosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Fitproject.Factura_dataset.tipo_pagoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Fitproject.Factura_datasetTableAdapters.actividadesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Fitproject.Factura_datasetTableAdapters.empresaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Fitproject.Factura_datasetTableAdapters.facturaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Fitproject.Factura_datasetTableAdapters.factura_detalleTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Fitproject.Factura_datasetTableAdapters.sociosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Fitproject.Factura_datasetTableAdapters.tipo_pagoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Fitproject.Factura_datasetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Fitproject.Factura_datasetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Fitproject.Factura_dataset,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Fitproject.Factura_datasetTableAdapters.TableAdapterManager.UpdateInsertedRows(Fitproject.Factura_dataset,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Fitproject.Factura_datasetTableAdapters.TableAdapterManager.UpdateDeletedRows(Fitproject.Factura_dataset,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Fitproject.Factura_datasetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Fitproject.Factura_datasetTableAdapters.TableAdapterManager.UpdateAll(Fitproject.Factura_dataset)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Fitproject.Factura_datasetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Fitproject.Factura_datasetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Fitproject.DataSet_Comprobante">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Fitproject.DataSet_Comprobante.sp_comprobanteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Fitproject.DataSet_Comprobante.sp_comprobanteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Fitproject.DataSet_Comprobante.sp_comprobanteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Fitproject.DataSet_ComprobanteTableAdapters.sp_comprobanteTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Fitproject.DataSet_ComprobanteTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Fitproject.DataSet_ComprobanteTableAdapters.TableAdapterManager.UpdateUpdatedRows(Fitproject.DataSet_Comprobante,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Fitproject.DataSet_ComprobanteTableAdapters.TableAdapterManager.UpdateInsertedRows(Fitproject.DataSet_Comprobante,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Fitproject.DataSet_ComprobanteTableAdapters.TableAdapterManager.UpdateDeletedRows(Fitproject.DataSet_Comprobante,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Fitproject.DataSet_ComprobanteTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Fitproject.DataSet_ComprobanteTableAdapters.TableAdapterManager.UpdateAll(Fitproject.DataSet_Comprobante)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Fitproject.DataSet_ComprobanteTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Fitproject.DataSet_ComprobanteTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
